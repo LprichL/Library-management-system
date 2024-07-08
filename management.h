@@ -1,6 +1,6 @@
 // 防止文件头被重复包含，使用预处理指令实现包含保护
-#ifndef HEADER_FILE_NAME_H
-#define HEADER_FILE_NAME_H
+#ifndef __MANAGEMENT_H__
+#define __MANAGEMENT_H__
 
 
 // 书籍类定义
